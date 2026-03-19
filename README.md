@@ -1,6 +1,6 @@
 # 🧠 Jennifer Lendler's AI Agent Portfolio
 
-Welcome to my collection of specialized AI agents designed to streamline business processes and transform how you work with data. As a Level III Certified MindStudio AI Agent Developer and AI expert at Alea Advisors, I create intelligent solutions that automate complex workflows and deliver actionable insights.  Here are just a few of my public examples.  Contact me to learn more about other complex proprietary agents that I have created for clients in the private equity, financial services, media, insurance, hospitality, consumer goods, marketing, finance, legal and other sectors.
+Welcome to my collection of specialized AI agents designed to streamline business processes and transform how you work with data. As a Level III Certified AI Agent Developer and AI expert at Alea Advisors, I create intelligent solutions that automate complex workflows and deliver actionable insights.  Here are just a few of my public examples.  Contact me to learn more about other complex proprietary agents that I have created for clients in the private equity, financial services, media, insurance, hospitality, consumer goods, marketing, finance, legal and other sectors.
 
 ---
 
